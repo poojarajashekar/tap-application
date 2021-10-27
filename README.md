@@ -1,2 +1,6 @@
 # tap-application
-demonstration repo on how to work on github web console
+Topics learnt today:
+1. VCS
+2. dvcs
+3. github concepts
+
